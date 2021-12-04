@@ -23,7 +23,7 @@ Notifiarr - Discord chat bot for *ARR notifications
 <br>
 Requestrr - Discord chat bot for *ARR requests
 <br>
-Chibisafe - File hoster
+[Chibisafe - File hoster](https://i.lumiseterne.cc)
 <br>
 RSSHub/RSSBridge - Generates RSS Feeds for sites without one
 <br>
