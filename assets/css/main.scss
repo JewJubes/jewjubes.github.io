@@ -2,6 +2,28 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+.fa-reddit {
+    color: #FF4500 !important;
+}
+.fa-home {
+    color: #0488db !important;
+}
+ .fa-envelope-square{
+ 
+  color: #fcd30a !important;
+}
+.fa-youtube{
+ 
+  color: #FF0000 !important;
+}
+.fa-font{
+  color: #02A9FF !important;
+}
+
+.fa-discord
+{
+  color: #5865F2 !important;
+}
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
