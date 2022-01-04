@@ -9,4 +9,6 @@ header:
 layout: splash
 ---
 
-<script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://my.walls.io/g4jhh?nobackground=1&amp;colorscheme=custom&amp;show_header=0" data-title="Aria Wall" data-width="100%" data-autoheight="1" data-injectloadmorebutton="1" data-loadmoretext="Load More Aria" data-loadmorecount="" data-height="800" data-lazyload="1"></script>
+<script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
+<link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
+<ul class="juicer-feed" data-feed-id="lumiseterne-cc"><h1 class="referral">
